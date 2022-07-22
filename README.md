@@ -17,3 +17,7 @@
     <img align="right" alt="Marlisson-pic" height="150" width="150" src="https://user-images.githubusercontent.com/92329431/180351351-676fbbe0-acc2-4362-8488-0b8fb2f857a9.png">  
       
   </div>
+
+<div>
+![Snake animation](https://github.com/MarlissonMonte/MarlissonMonte/blob/output/github-contribution-grid-snake.svg)
+</div
