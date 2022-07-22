@@ -14,5 +14,7 @@
     <img align="center" alt="Marlisson-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Marlisson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Marlisson-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="right" alt="Marlisson-pic" src="https://i.picasion.com/pic92/03e014ca295097b0651e2eb9e28c633a.gif">  
+      
   </div>
 ![ Animação de cobra ](https://github.com/marlissonmonte/marlissonmonte/blob/output/github-contribution-grid-snake.svg)
