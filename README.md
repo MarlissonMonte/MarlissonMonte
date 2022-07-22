@@ -21,5 +21,5 @@
 ##
 
 <div>
-![Snake animation](https://github.com/MarlissonMonte/MarlissonMonte/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marlissonmonte/marlissonmonte/blob/output/github-contribution-grid-snake.svg)
 </div
