@@ -1,6 +1,6 @@
 ### Olá mundo! eu sou Marlisson Monte 👋🌎
 
-- 🤓 Estudando Engenharia da computação
+- 🤓 Estudando Engenharia da computação - UFS 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
