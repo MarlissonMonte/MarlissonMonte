@@ -1,4 +1,4 @@
-### Olá mundo! eu sou Marlisson Monte 👋🌎
+### Olá mundo! eu sou Marlisson, mas pode me chamar de Mar 👋🌎
 
 - 📚 Estudando Engenharia da computação - UFS
 
