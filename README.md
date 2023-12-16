@@ -15,6 +15,6 @@
     <img align="center" alt="Marlisson-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Marlisson-C++" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Marlisson-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Marlisson-pic" height="250" width="250" src="https://github.com/MarlissonMonte/MarlissonMonte/assets/92329431/177733a4-60f3-4b51-ad9b-f16d2d3ef4a7">
+    <img align="right" alt="Marlisson-pic" height="220" width="220" src="https://github.com/MarlissonMonte/MarlissonMonte/assets/92329431/177733a4-60f3-4b51-ad9b-f16d2d3ef4a7">
       
   </div>
